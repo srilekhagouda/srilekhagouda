@@ -30,18 +30,18 @@ Percentage: 62.33% | 2019 – 2021
 - Designed an assistive embedded system using ultrasonic and IR sensors
 - Implemented buzzer, LED, and vibration alerts for real-time feedback
 - Used LPC1768 (Cortex-M3) for sensor processing and fall detection  
-🔗 [View Repository](LINK_HERE)
+
 
 ### UART-Based Menu-Driven Utility for STM32 (2024)
 - Built a UART Rx/Tx menu system for real-time control operations
 - Implemented GPIO, DAC, EXTI, timers, and USART2
 - Controlled LED intensity and executed utility calculations  
-🔗 [View Repository](LINK_HERE)
+
 
 ### Movie Ticket Reservation Portal (C++) (2024)
 - Developed a console-based ticket booking system using C++
 - Implemented file I/O for persistent data storage  
-🔗 [View Repository](LINK_HERE)
+🔗 [View Repository](https://github.com/srilekhagouda/Movie-Ticket-Booking-System-/blob/main/moive_ticket.c)
 
 
 ## 💼 Experience
