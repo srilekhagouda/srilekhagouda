@@ -57,9 +57,7 @@ InternPe | 2023
 - Built responsive web applications using HTML, CSS, and JavaScript
 - Developed an e-commerce website and task management application
 
-## 📄 Resume
 
-[Download Resume (PDF)](https://raw.githubusercontent.com/srilekhagouda/resume/main/Srilekha_Gouda_Resume.pdf)
 
 ## 📫 Contact
 
