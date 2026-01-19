@@ -10,7 +10,7 @@ Interested in embedded systems, backend development, and applied AI solutions.
 C. V. Raman Global University, Bhubaneswar  
 CGPA: 8.19 | 2021 – 2025
 
-**Senior Secondary (CHSE)**  
+**Intermediate (CHSE,Odisha)**  
 Maharishi Higher Secondary School of Natural Law  
 Percentage: 62.33% | 2019 – 2021
 
