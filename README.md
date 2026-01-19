@@ -38,7 +38,7 @@ Percentage: 62.33% | 2019 – 2021
 - Controlled LED intensity and executed utility calculations  
 
 
-### Movie Ticket Reservation Portal (C++) (2024)
+### Movie Ticket Reservation Portal (C) (2024)
 - Developed a console-based ticket booking system using C++
 - Implemented file I/O for persistent data storage  
 🔗 [View Repository](https://github.com/srilekhagouda/Movie-Ticket-Booking-System-/blob/main/moive_ticket.c)
