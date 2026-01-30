@@ -36,7 +36,7 @@ Software Development Life Cycle (SDLC), Agile & Scrum Fundamentals
 - Implemented backend logic for user authentication, profile management, posts, and interactions.
 - Designed scalable backend models and followed modular software design principles.
 
-### Movie Ticket Reservation System | C++
+### Movie Ticket Reservation System | C
 - Developed a console-based ticket booking system using object-oriented programming.
 - Implemented seat availability management and file-based data persistence.
 - Focused on clean code structure and logical flow.
