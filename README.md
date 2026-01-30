@@ -67,11 +67,6 @@ InternPe | 2023
 
 ---
 
-## 📄 Resume
-📄 **Download Resume (PDF):**  
-https://raw.githubusercontent.com/srilekhagouda/resume/main/Srilekha_Gouda_Resume.pdf
-
----
 
 ## 📫 Contact
 - Email: srilekhagouda@gmail.com  
